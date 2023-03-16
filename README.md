@@ -29,6 +29,17 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoo081&repo=Artigo_MachineLearning_DCV&theme=radical)](https://github.com/ricardoo081/Artigo_MachineLearning_DCV)
 
+### Na última semana eu investi meu tempo em:
+
+```text
+Python       35 hrs  ██████████████████░░░░░░░  22%
+SQL          32 hrs  █████████████████░░░░░░░░  20%
+AWS          28 hrs  ███████████████░░░░░░░░░░  18%
+Spark        25 hrs  █████████████░░░░░░░░░░░░  16%
+Power BI     20 hrs  ██████████░░░░░░░░░░░░░░░  13%
+Other        20 hrs  ██████████░░░░░░░░░░░░░░░  13%
+```
+
 ### Como entrar em contato comigo
 
 Você pode me encontrar nas seguintes plataformas:
