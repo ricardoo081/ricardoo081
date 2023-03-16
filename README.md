@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Bem-vindo ao meu novo perfil do GitHub!
 
-### Olá! Eu sou Ricardo Santos, e este é o meu perfil do GitHub. Aqui está um pouco sobre mim:
+### Olá! Eu sou Ricardo Santos. Aqui está um pouco sobre mim:
 
 - 🔭 Atualmente estou me aprofundando em Análise de dados, Big Data e Engenharia de dados.
 - 🌱 Estou procurando colaborar em projetos relacionados a análise de dados e big data.
