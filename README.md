@@ -1,28 +1,33 @@
-### Olá! Eu sou o Ricardo Santos 
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Eu sou [seu nome], e este é o meu perfil do GitHub. Aqui está um pouco sobre mim:
+### Olá! Eu sou Ricardo Santos, e este é o meu perfil do GitHub. Aqui está um pouco sobre mim:
 
-- 🔭 Atualmente estou trabalhando em [projeto/atuação].
-- 🌱 Estou aprendendo [linguagem/tecnologia].
-- 👯 Estou procurando colaborar em [projeto/área].
-- 🤔 Estou procurando ajuda com [problema].
-- 💬 Pergunte-me sobre [interesses/habilidades].
-- 📫 Como chegar até mim: [e-mail/LinkedIn/outros meios de contato].
-- 😄 Pronomes: [ele/ela/elas/ele(s)/ela(s)].
-- ⚡ Fato engraçado: [fato].
+- 🔭 Atualmente estou me aprofundando em Análise de dados, Big Data e Engenharia de dados.
+- 🌱 Estou procurando colaborar em projetos relacionados a análise de dados e big data.
+- 🤔 Estou procurando ajuda com projetos open source de big data.
+- 💬 Pergunte-me sobre análise de dados, big data e machine learning.
+- 📫 Como chegar até mim: ricardosantoscomp@gmail.com ou https://www.linkedin.com/in/0ricardosantos/
 
 ### Minhas estatísticas no GitHub
 
-![Estatísticas do GitHub de Nome de Usuário](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Ricardo](https://github-readme-stats.vercel.app/api?username=ricardoo081&show_icons=true&theme=radical)
 
-### Linguagens que eu uso
+### Linguagens e tecnologias que uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&theme=radical)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Python-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-SQL%20%7C%20NoSQL-yellowgreen)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Excel-green)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-MySQL-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Postgres-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-MongoDB-green)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-ETL-yellow)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-ELT-yellow)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Data%20Warehouse-blueviolet)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Data%20Lake-brightgreen)
 
 ### Meus repositórios mais populares
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seu_username&repo=seu_repositorio&theme=radical)](https://github.com/seu_username/seu_repositorio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardoo081&repo=Artigo_MachineLearning_DCV&theme=radical)](https://github.com/ricardoo081/Artigo_MachineLearning_DCV)
 
 ### Como entrar em contato comigo
 
@@ -32,3 +37,7 @@ Você pode me encontrar nas seguintes plataformas:
 - [E-mail](mailto:ricardosantoscomp@gmail.com)
 
 Sinta-se à vontade para entrar em contato comigo para conversar ou colaborar em projetos! Obrigado por visitar o meu perfil.
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
+</p>
