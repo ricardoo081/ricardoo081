@@ -8,10 +8,6 @@
 - 💬 Pergunte-me sobre análise de dados, big data e machine learning.
 - 📫 Como chegar até mim: ricardosantoscomp@gmail.com ou https://www.linkedin.com/in/0ricardosantos/
 
-### Minhas estatísticas no GitHub
-
-![Estatísticas do GitHub de Ricardo](https://github-readme-stats.vercel.app/api?username=ricardoo081&show_icons=true&theme=radical)
-
 ### Linguagens e tecnologias que uso
 
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Python-blue)
