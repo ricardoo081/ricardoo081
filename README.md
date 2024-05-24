@@ -2,8 +2,8 @@
 
 ### Olá! Eu sou Ricardo Santos. Aqui está um pouco sobre mim:
 
-- 🔭 Atualmente estou me aprofundando em Análise de dados, Big Data e Engenharia de dados.
-- 🌱 Estou procurando colaborar em projetos relacionados a análise de dados e big data.
+- 🔭 Atualmente estou me aprofundando em Análise de dados, Big Data e IA.
+- 🌱 Estou procurando colaborar em projetos relacionados a análise de dados e IA
 - 🤔 Estou procurando ajuda com projetos open source de big data.
 - 💬 Pergunte-me sobre análise de dados, big data e machine learning.
 - 📫 Como chegar até mim: ricardosantoscomp@gmail.com ou https://www.linkedin.com/in/0ricardosantos/
